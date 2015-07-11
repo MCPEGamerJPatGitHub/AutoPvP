@@ -1,0 +1,5 @@
+name: AutoPvP
+version: 1.0
+author: mcpegamerjp
+api: 1.12.0
+main: mcpegamerjp\autopvp\autopvp
