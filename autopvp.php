@@ -7,7 +7,7 @@ use pocketmine\plugin\pluginbase;
 class autopvp extends pluginbase{
 
       public function onEnable(){
-            $this->getLogger()->info("test");
+            $this->getLogger()->info("AutoPvP has been enabled");
            }
 
 
